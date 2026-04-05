@@ -26,17 +26,17 @@ The system operates in real time by transmitting sensor data to a server for pre
 
 To analyze motion characteristics, accelerometer (ACC) signals along three axes (x, y, z) were collected from both foot and hand IMU sensors under different movement states.
 
-<p align="center"> <img src="dungyen.png" alt="Standing State Signal" width="100%"> </p> <p align="center"><i>Figure 1. Accelerometer signals in the standing state across foot and hand IMU sensors.</i></p>
-
 In the standing state, the accelerometer signal remains nearly constant with minimal fluctuations, indicating a stable and stationary condition.
 
-<p align="center"> <img src="walk.png" alt="Walking State Signal" width="100%"> </p> <p align="center"><i>Figure 2. Accelerometer signals in the walking state across foot and hand IMU sensors.</i></p>
+<p align="center"> <img src="dungyen.png" alt="Standing State Signal" width="100%"> </p> <p align="center"><i>Figure 1. Accelerometer signals in the standing state across foot and hand IMU sensors.</i></p>
 
 In the walking state, the signal exhibits periodic and stable oscillations, representing regular gait cycles and consistent movement patterns.
 
-<p align="center"> <img src="fog.png" alt="FoG State Signal" width="100%"> </p> <p align="center"><i>Figure 3. Accelerometer signals in the Freezing of Gait (FoG) state across foot and hand IMU sensors.</i></p>
+<p align="center"> <img src="walk.png" alt="Walking State Signal" width="100%"> </p> <p align="center"><i>Figure 2. Accelerometer signals in the walking state across foot and hand IMU sensors.</i></p>
 
 In the FoG state, the signal shows irregular, high-frequency fluctuations and instability, resembling tremor-like movements. These abnormal patterns are clearly distinguishable from normal walking behavior and serve as critical features for FoG detection.
+
+<p align="center"> <img src="fog.png" alt="FoG State Signal" width="100%"> </p> <p align="center"><i>Figure 3. Accelerometer signals in the Freezing of Gait (FoG) state across foot and hand IMU sensors.</i></p>
 
 ## **Contributors**
 **Quan Cao**  
