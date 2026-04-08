@@ -22,9 +22,7 @@ The system operates in real time by transmitting sensor data to a server for pre
 
 ---
 
-## **Results**
-
-## ***Accelerometer Signal Analysis***
+## **Accelerometer Signal Analysis Results**
 
 To analyze motion characteristics, accelerometer (ACC) signals along three axes (x, y, z) were collected from both foot and hand IMU sensors under different movement states.
 
@@ -40,7 +38,7 @@ In the FoG state, the signal shows irregular, high-frequency fluctuations and in
 
 <p align="center"> <img src="fog.png" alt="FoG State Signal" width="100%"> </p> <p align="center"><i>Figure 3. Accelerometer signals in the Freezing of Gait (FoG) state across foot and hand IMU sensors.</i></p>
 
-## ***Training results***
+## **Training results**
 
 The model training process was conducted over 30 epochs. Experimental results showed rapid convergence of the model
 
